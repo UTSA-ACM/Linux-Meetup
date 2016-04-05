@@ -14,7 +14,7 @@ hi
 
 Please write a brief writeup of how you exploited this program and how it works. Please also include the string that you entered and any steps that you tried that didn't work out. 
 
-E-mail responses to Chris@Doege.pw 
+E-mail responses to Chris@Doege.pw with deliverables and challenge number.  
 
 ##Hint: 
 This is one of the pirmary vulnerabilites that C is known for. (Not just gets) 
